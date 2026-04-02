@@ -40,12 +40,7 @@
     - Data Visualization
     - Data Interpretation
 
-### [Course Problem Notebooks](/4_Problems/)
 
-- The Notebooks to solve practice problems
-    - [Purchase the problems here](https://lukebarousse.com/python)
-
-## Found a Typo? Want to Contribute?
 - If you find an error in this codebase, please feel free to make a pull request by:
     - Forking the repo
     - Making any changes
